@@ -1,0 +1,29 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.main {
+  /* background-color: violet; */
+}
+h1 {
+  color: brown;
+}
+.bg-color button {
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.5);
+  height: 40px;
+  width: 40px;
+  border-bottom: 1px solid white;
+  background-color: white;
+  margin: 2px;
+  border: 1px solid white;
+}
+.bg-color {
+  background-color: white;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.5);
+  height: 220px;
+  width: 250px;
+}
+input {
+  height: 30px;
+  width: 100%;
+}
